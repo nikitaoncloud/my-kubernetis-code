@@ -1,7 +1,7 @@
 apiversion: v1
 kind: pod
 metadata:
-       name: pod-1
+       name: pod-2
        namespace: dev-namepace
        labeles: 
            name:
