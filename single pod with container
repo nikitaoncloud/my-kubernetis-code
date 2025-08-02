@@ -1,0 +1,14 @@
+apiversion: v1
+kind: pod
+metadata:
+       name: pod_name
+       namespace: dev-namepace
+       labeles: 
+           name:
+           tags: 
+Spec: 
+      containers:
+      -    name: nginx
+            image: nginx
+            Ports
+            -   containerport: 80
